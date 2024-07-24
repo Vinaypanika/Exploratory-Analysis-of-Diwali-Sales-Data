@@ -1,7 +1,7 @@
-# Exploratory-Analysis-Diwali-Sales
+# Exploratory Analysis of Diwali Sales Data
 
 ## Overview
-### The "Diwali Sales Analysis - EDA" project focuses on exploratory data analysis (EDA) of sales data related to the Diwali festival. The project aims to uncover insights into customer purchasing behavior, sales trends, and product performance during the Diwali season.
+### The "Exploratory Analysis of Diwali Sales Data" project focuses on exploratory data analysis (EDA) of sales data related to the Diwali festival. The project aims to uncover insights into customer purchasing behavior, sales trends, and product performance during the Diwali season.
 
 ### Features
 ## Data Exploration: 
